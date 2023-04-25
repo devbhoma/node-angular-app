@@ -1,0 +1,8 @@
+.register {
+  display: inline-block;
+  width: 100%; }
+  .register h1 {
+    border: 1px solid #f30;
+    padding: 100px; }
+
+/*# sourceMappingURL=register.component.css.map */
